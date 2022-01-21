@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"rpg","l":"Character"},{"p":"rpg","l":"RPGView.Loc"},{"p":"rpg","l":"Point"},{"p":"rpg","l":"RPG"},{"p":"rpg","l":"RPGController"},{"p":"rpg","l":"RPGModel"},{"p":"rpg","l":"RPGView"},{"p":"rpg","l":"TestRPG"}]
