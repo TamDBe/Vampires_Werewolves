@@ -12,6 +12,7 @@ How to run:
 6. Click Finish.
 7. Right click on the Vampire_Werewolves project in the Package Explorer and select Run As -> Run Configurations.
 8. In the Arguments tab, insert the following line into 'VM arguments':
+   
    --module-path PATH_TO_JAVAFX_LIB --add-modules javafx.controls,javafx.fxml
    
    where PATH_TO_JAVAFX_LIB is the location of the 'lib' folder located in the JavaFX folder that was downloaded in step 2.
