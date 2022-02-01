@@ -18,3 +18,5 @@ How to run:
    where PATH_TO_JAVAFX_LIB is the location of the 'lib' folder located in the JavaFX folder that was downloaded in step 2.
 9. Uncheck 'Use the -XstartOnFirstThread argument when launching with SWT'
 10. Click Run.
+
+Credits: Artwork obtained from Twilight movie
